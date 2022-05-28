@@ -1,7 +1,7 @@
 <%-- 
     Document   : arithmeticcalculator
     Created on : May 27, 2022, 9:15:57 PM
-    Author     : DiegoBane
+    Author     : Diego Maia
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
